@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **upendras9717@gmail.com**
 
-- ⚡ Fun fact **you can find me in powerlifting meets**
+- ⚡ Fun fact **you can find me at powerlifting meets**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
