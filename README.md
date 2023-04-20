@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [A fun Ecommerce](https://upend97.pythonanywhere.com/)
 
-- 🌱 I’m currently learning **NodeJs, Devops**
+- 🌱 I’m currently learning **NodeJs, React**
 
 - 💬 Ask me about **Python, PHP, Django, Flask, SQL**
 
