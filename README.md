@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Upendra</h1>
 <h3 align="center">I'm a backend developer, and I always try to write code that's so good that it puts me out of a job - but so far, I haven't been successful.</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+
 
 - 🔭 I’m currently working on [A fun Ecommerce](https://upend97.pythonanywhere.com/)
 
